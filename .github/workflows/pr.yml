@@ -1,4 +1,4 @@
-name: install-go-env
+name: install-go
 on:
   pull:
     branches: [main]
